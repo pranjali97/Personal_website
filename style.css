@@ -28,23 +28,39 @@ ul {
 	color: black;
 	background-color: #616161;
 }
-#about, #accomplishments {
+#about {
 	color: #d4d9dd;
 	background-color: #424246;
 	text-align: left;
 	margin: -30px;
 	padding: 100px;
 }
-#services, #contact {
+
+/*#accomplishments {
+	color: #d4d9dd;
+	background-color: #424246;
+	text-align: left;
+	margin: -30px;
+	padding: 100px;
+}*/
+#Publications {
 	color: #424246;
 	background-color: #d4d9dd;
 	text-align: right;
 	margin: -30px;
 	padding: 100px;
 }
-#footer{
+
+#contact {
+	color: #d4d9dd;
 	background-color: #424246;
-	color: black;
+	text-align: left;
+	margin: -30px;
+	padding: 100px;
+}
+#footer{
+	background-color: #d4d9dd;
+	color: #424246;
 	padding-bottom: 2em;
 }
 #footer img {
